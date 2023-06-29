@@ -1,0 +1,34 @@
+{
+    "userId":"" ,
+    "origin": 62,
+    "destination": 131,
+    "startDate": "2023-12-11T08:30:00.0000",
+    "endDate": "2023-12-11T08:30:00.0000",
+    "taxableDays": 123,
+    "definitionOfTaxDays": 13,
+    "fiscalStartYear": "2023-01-01T00:00:00.0000",
+    "fiscalEndYear": "2023-12-31T00:00:00.0000",
+    "thresholdDays": 5,
+    "travelType": 3,
+    "otherTravelType": "Testing",
+    "checkList": "Test",
+    "travelHotel": [
+        "abc.txt",
+        "asd.png"
+    ],
+    "foodEntertainment": [
+        "caa.txt",
+        "assasd.png"
+    ],
+    "shoppingUtility": [
+        "arbc.txt",
+        "ete.png"
+    ],
+    "others": [
+        "sfsf.txt",
+        "hgjg.png"
+    ],
+    "nonWorkDays": [
+        "2023-08-25T00:00:00.0000"
+    ]
+}
